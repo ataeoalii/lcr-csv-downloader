@@ -18,11 +18,11 @@ NOTE: This extension is not in any way affiliated or developed by the church.
 
 ![Chrome Extensions](docs/2-chrome-extension.png)
 
-3. Enable developer mode. After doing this, you'll see 3 additional buttons ("Load Unpacked", "Pack extension", and "Update").
+3. Enable developer mode (on the right side). After doing this, you'll see 3 additional buttons ("Load Unpacked", "Pack extension", and "Update").
 
 ![Developer Mode](docs/3-developer-mode.png)
 
-4. Click "Load Unpacked" and select the "source" folder from the unzipped lcr-email-copier folder on your computer.
+1. Click "Load Unpacked" and select the "source" folder from the unzipped lcr-csv-downloader folder on your computer.
 
 ![Select Source](docs/4-select-source.png)
 
