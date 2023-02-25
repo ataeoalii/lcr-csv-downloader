@@ -12,7 +12,7 @@ NOTE: This extension is not in any way affiliated or developed by the church.
 
 1. Scroll to the top of this page, click the green Code button and then "Download ZIP". After downloading, unzip it on your computer.
 
-![Download ZIP](docs/1-download.png)
+![Download ZIP](docs/1-download-it.png)
 
 2. Go to [chrome://extensions](chrome://extensions) in your chrome browser.
 
